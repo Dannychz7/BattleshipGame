@@ -1,6 +1,3 @@
-### Creating the Battleship Game:
-   # 1. Create the grid with numbers on the top and letters on the left side
-    #2.
 import numpy
 import random
 
